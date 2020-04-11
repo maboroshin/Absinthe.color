@@ -1,7 +1,7 @@
 # Color Theme of Absinthe style
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Absinthe sample image](https://user-images.githubusercontent.com/41102508/79045321-72460300-7c45-11ea-8de8-4df5fd35ffa4.png)
+![Absinthe sample image](https://user-images.githubusercontent.com/41102508/79045561-af5ec500-7c46-11ea-878d-3de05ff84e7a.png)
 
 ## Color value
 *[Color preview](https://github.com/maboroshin/Absinthe.color/issues/1)*
