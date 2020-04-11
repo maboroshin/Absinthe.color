@@ -20,7 +20,7 @@
 * `#b48891` : blue
 * `#bbc18c` : Purple
 
-## Jacascript
+## Javascript
 ```
   const aTheme = ["Absinthe",
   /*License*/"MIT",
