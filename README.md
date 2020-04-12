@@ -29,8 +29,8 @@
   /*Background*/"#131418",
   /*Current Line : LineNr*/"#172418",
   /*Selection */"#1d2e03",
-  /*Foreground*/"#BEC7BA",
-  /*Comment*/"#4A956D",
+  /*Foreground*/"#bec7ba",
+  /*Comment*/"#4a956D",
   /*Pink terminal_color_9*/"#bda09c",
   /*Red :Error*/"#c69492",
   /*Orange :function, minor*/"#bba944",
@@ -38,6 +38,6 @@
   /*Green : PreProc, Special*/"#a5b352",
   /*Cyan : Identifier, Type*/"#90b998",
   /*blue : Statement*/"#b48891",
-  /*Purple : Constant*/"#BBC18C",
+  /*Purple : Constant*/"#bbc18c",
   ],
   ```
