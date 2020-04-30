@@ -1,7 +1,7 @@
 # Color Theme of Absinthe style
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Absinthe sample image](https://user-images.githubusercontent.com/41102508/79045561-af5ec500-7c46-11ea-878d-3de05ff84e7a.png)
+![Absinthe sample image](https://user-images.githubusercontent.com/41102508/80710537-ddd70e00-8b29-11ea-9de9-2e90fb6181a7.png)
 
 ## Color value
 *[Color preview](https://github.com/maboroshin/Absinthe.color/issues/1)*
@@ -17,8 +17,8 @@
 * `#bfbd33` : Yellow
 * `#a5b352` : Green
 * `#90b998` : Cyan
-* `#b48891` : blue
-* `#bbc18c` : Purple
+* `#97b7c0` : blue
+* `#bbc18c` : a08eae
 
 ## Javascript
 ```
@@ -37,7 +37,7 @@
   /*Yellow terminal_color_10*/"#bfbd33",
   /*Green : PreProc, Special*/"#a5b352",
   /*Cyan : Identifier, Type*/"#90b998",
-  /*blue : Statement*/"#b48891",
-  /*Purple : Constant*/"#bbc18c",
+  /*blue : Statement*/"#97b7c0",
+  /*Purple : Constant*/"#a08eae",
   ],
   ```
