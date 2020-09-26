@@ -17,8 +17,8 @@
 * `#bfbd33` : Yellow
 * `#a5b352` : Green
 * `#90b998` : Cyan
-* `#97b7c0` : blue
-* `#bbc18c` : a08eae
+* `#97b7c0` : Blue
+* `#bbc18c` : Purple 
 
 ## Javascript
 ```
@@ -37,7 +37,7 @@
   /*Yellow terminal_color_10*/"#bfbd33",
   /*Green : PreProc, Special*/"#a5b352",
   /*Cyan : Identifier, Type*/"#90b998",
-  /*blue : Statement*/"#97b7c0",
+  /*Blue : Statement*/"#97b7c0",
   /*Purple : Constant*/"#a08eae",
   ],
   ```
